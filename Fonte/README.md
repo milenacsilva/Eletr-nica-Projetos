@@ -1,7 +1,7 @@
-#Projeto 1: Fonte retificadora (12V ~ 3V)
+# Projeto 1: Fonte retificadora (12V ~ 3V)
 Esse projeto consiste de uma fonte retificadora com uma tensão váriavel de 12V a 3V DC.
 
-##Participantes
+## Participantes
 * Lourenço de Salles Roselino - 11796805
 * Marco Antônio Ribeiro de Toledo - 
 * Milena Corrêa da Silva - 11795401
@@ -10,7 +10,7 @@ Esse projeto consiste de uma fonte retificadora com uma tensão váriavel de 12V
 ... (em construção)
 
 ### Valores
-* Tranformador
+* Transformador
 ``` 
 --
 ```
