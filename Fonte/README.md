@@ -3,7 +3,7 @@ Esse projeto consiste de uma fonte retificadora com uma tensão váriavel de 12V
 
 ## Participantes
 * Lourenço de Salles Roselino - 11796805
-* Marco Antônio Ribeiro de Toledo - 
+* Marco Antônio Ribeiro de Toledo - 11796419
 * Milena Corrêa da Silva - 11795401
 
 ## Diagrama da Fonte
