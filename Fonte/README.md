@@ -12,7 +12,8 @@ Esse projeto consiste em uma fonte retificadora com uma tensão váriavel de 12V
 ### Valores escolhidos para os componentes e preços
 |  Componetes  |  Explicação  | Preço |
 |--------------|--------------|-------|
-|              |              |       |
+|              |         sasasasdsaskasimsanzmxnaisja,mmxn ansja 
+jsakskajs     |       |
 |              |              |       | 
 |              |              |       |  
 
