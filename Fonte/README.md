@@ -1,5 +1,5 @@
 # Projeto 1: Fonte retificadora (12V ~ 3V)
-Esse projeto consiste de uma fonte retificadora com uma tensão váriavel de 12V a 3V DC.
+Esse projeto consiste em uma fonte retificadora com uma tensão váriavel de 12V a 3V DC.
 
 ## Participantes
 * Lourenço de Salles Roselino - 11796805
@@ -9,31 +9,13 @@ Esse projeto consiste de uma fonte retificadora com uma tensão váriavel de 12V
 ## Diagrama da Fonte
 ... (em construção)
 
-### Valores
-* Transformador
-``` 
---
-```
+### Valores escolhidos para os componentes e preços
+|  Componetes  |  Explicação  | Preço |
+|--------------|--------------|-------|
+|              |              |       |
+|              |              |       | 
+|              |              |       |  
 
-* Queda do diodo
-``` 
---
-```
-
-* Capacitor
-``` 
---
-```
-
-* Resistência (Load)
-``` 
---
-```
-
-* Potenciômetro
-``` 
---
-```
 
 #### Link para o circuito no falstad
 ... (em construção)
