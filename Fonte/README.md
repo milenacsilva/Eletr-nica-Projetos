@@ -9,15 +9,15 @@ Esse projeto consiste em uma fonte retificadora com uma tensão váriavel de 12V
 ## Diagrama da Fonte
 ... (em construção)
 
-### Valores escolhidos para os componentes e preços
-|  Componetes  |  Explicação  | Preço |
-|--------------|--------------|-------|
-|              |         sasasasdsaskasimsanzmxnaisja,mmxn ansja 
-jsakskajs     |       |
-|              |              |       | 
-|              |              |       |  
-
-
+### Componentes
+|Nome   |Quantidade  |Especificações   |Explicaçoẽs   | Preço |
+|---|---|---|---|---|
+|Transformador   |1  |   |   |   |
+|Diodo Retificador   |4  |   |   |   |
+|Capacitor   |1 |   |   |   |
+|Diodo Zener   |1  |   |   |   |
+|Resistencia   |   |   |   |   |
+|Potenciometro   |1   |   |   |   |
 #### Link para o circuito no falstad
 ... (em construção)
 
