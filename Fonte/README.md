@@ -9,6 +9,8 @@ Esse projeto consiste em uma fonte retificadora com uma tensão váriavel de 12V
 ## Diagrama da Fonte
 ![falstad_print](https://i.imgur.com/HulbdI8.png)
 
+#### [Link para o circuito no falstad](http://tinyurl.com/y8eeqs6w)
+
 ### Componentes
 |Nome   |Quantidade  |Especificações   |Explicações   | Preço |
 |---|---|---|---|---|
@@ -20,8 +22,6 @@ Esse projeto consiste em uma fonte retificadora com uma tensão váriavel de 12V
 |Resistência    | 2   | 22ohm| Uma resistência foi utilizada para controlar a corrente que passa pelo NPN e não estora-lo e a outra representa o load|
 |Resistência  | 1   | 3.1kohm    |    |
 |Potenciômetro   |1   |   |   |   |
-
-#### [Link para o circuito no falstad](http://tinyurl.com/y8eeqs6w)
 
 #### Link para o vídeo explicativo
 ... (em construção)
