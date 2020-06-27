@@ -21,7 +21,7 @@ Esse projeto consiste em uma fonte retificadora com uma tensão váriavel de 12V
 |Resistência  | 1   | 3.1kohm    |    |
 |Potenciômetro   |1   |   |   |   |
 
-#### [Link para o circuito no falstad] (http://tinyurl.com/y8eeqs6w)
+#### [Link para o circuito no falstad](http://tinyurl.com/y8eeqs6w)
 
 #### Link para o vídeo explicativo
 ... (em construção)
