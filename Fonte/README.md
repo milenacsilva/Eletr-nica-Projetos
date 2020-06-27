@@ -7,7 +7,6 @@ Esse projeto consiste em uma fonte retificadora com uma tensão váriavel de 12V
 * Milena Corrêa da Silva - 11795401
 
 ## Diagrama da Fonte
-[falstad](http://tinyurl.com/y8eeqs6w)
 ![falstad_print](https://i.imgur.com/HulbdI8.png)
 
 ### Componentes
@@ -22,9 +21,7 @@ Esse projeto consiste em uma fonte retificadora com uma tensão váriavel de 12V
 |Resistência  | 1   | 3.1kohm    |    |
 |Potenciômetro   |1   |   |   |   |
 
-
-#### Link para o circuito no falstad
-... (em construção)
+#### [Link para o circuito no falstad] (http://tinyurl.com/y8eeqs6w)
 
 #### Link para o vídeo explicativo
 ... (em construção)
