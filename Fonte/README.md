@@ -11,7 +11,7 @@ Esse projeto consiste em uma fonte retificadora com uma tensão váriavel de 12V
 ![eagle_print](https://cdn.discordapp.com/attachments/705588546890891336/726614224461103214/unknown.png)
 ![eagle_print2](https://cdn.discordapp.com/attachments/705588546890891336/726614089727737896/unknown.png)
 
-#### [Link para o circuito no falstad](http://tinyurl.com/y8eeqs6w)
+#### [Link para o circuito no falstad](http://tinyurl.com/ybcu2mor)
 
 ### Componentes
 |Nome   |Quantidade  |Especificações   |Explicações   | Preço |
@@ -20,9 +20,9 @@ Esse projeto consiste em uma fonte retificadora com uma tensão váriavel de 12V
 |[Diodo Retificador](https://www.filipeflop.com/produto/diodo-retificador-1n5408/)   |4  | 1N5408 | O diodo necessário precisava de um minimo de 25V de tensão de pico e 500mA (obtidos pela saída do transformador). No entanto, escolhemos um de 1000V e 3A por garantir uma margem de erro maior por baixo custo (esse definitivamente não vai queimar (･ω<)☆)| R$2,40 por 10 unidades |
 |Capacitor  |2 | [[680uF 25V]](https://www.eletro-parts.com/produto_detalhes/p/TVRBMk16WT0=/132-+Eletrolitico+680uF+x+25V) [[470uF 25V]](https://www.baudaeletronica.com.br/capacitor-eletrolitico-470uf-25v.html) | Utilizamos um capacitor de 680uF pois juntamente com o outro ele estabiliza a corrente dentro dos 5% do padrão USB. Além disso, como a tensão total após o transformador é por volta de 24V ainda temos uma margem de segurança |R$10,00 por 20 unidades|
 |[Diodo Zener](https://produto.mercadolivre.com.br/MLB-911630639-10-pcs-diodo-zener-13v-1w-1n4743frete-brasil-r1200-_JM?quantity=1#position=2&type=item&tracking_id=724e89c3-54f7-4462-9ed9-0cbeeed97948)   |1  | 13V - 1W | No geral, a corrente de pico (quando está em 3V) é aproximadamente 12 mA, o que resulta em uma voltagem de 156mW, mas o único diodo que conseguimos encontrar pra essa tensão (13V) foi este, então pelo menos temos, novamente, uma boa margem de erro|R$10,66 por 10 unidades|
-|[Resistência](https://produto.mercadolivre.com.br/MLB-1360686564-100un-resistor-3w-680-ohms-680r-_JM?matt_tool=79246729&matt_word&gclid=Cj0KCQjw3Nv3BRC8ARIsAPh8hgIZthx3jkiPw2VOVmCo1oc2xP3LB-l-BSqcjDnmkyEKC1g_jZUm-xMaAg-5EALw_wcB&quantity=1)   | 1  | 1.2kohm  | Utilizada para limitar a tensão no zener e para que está fique na faixa de 13V  | R$ 33,99 pro 100 unidades  |
+|[Resistência]()   | 1  | 1.2kohm  | Utilizada para limitar a tensão no zener e para que está fique na faixa de 13V  | |
 |Resistência    | 2   | 22ohm| Uma resistência foi utilizada para controlar a corrente que passa pelo NPN e não estora-lo e a outra representa o load|
-|[Potenciômetro](https://www.submarino.com.br/produto/1486223377/potenciometro-linear-tipo-b-5k?WT.srch=1&acc=d47a04c6f99456bc289220d5d0ff208d&epar=bp_pl_00_go_g35164&gclid=Cj0KCQjw3Nv3BRC8ARIsAPh8hgJ1zi-D6z9f-GZEor7-OQ692x4VBREkFTeZVXomAuMNY7Gf06GorZ0aAunVEALw_wcB&i=5e350c4649f937f625c487c0&o=5e34ac65f8e95eac3d165fa6&opn=XMLGOOGLE&sellerid=16569609000116)   |1   | 5kohm  | Na teoria, só precisariamos de um potenciometro de 3.3kohm com uma resistencia de 2.2ohm, mas como não encontramos tal para vender mudamos para um potenciometro  |   |
+|[Potenciômetro](https://www.submarino.com.br/produto/1486223377/potenciometro-linear-tipo-b-5k?WT.srch=1&acc=d47a04c6f99456bc289220d5d0ff208d&epar=bp_pl_00_go_g35164&gclid=Cj0KCQjw3Nv3BRC8ARIsAPh8hgJ1zi-D6z9f-GZEor7-OQ692x4VBREkFTeZVXomAuMNY7Gf06GorZ0aAunVEALw_wcB&i=5e350c4649f937f625c487c0&o=5e34ac65f8e95eac3d165fa6&opn=XMLGOOGLE&sellerid=16569609000116)   |1   | 5kohm  | Na teoria, só precisariamos de um potenciometro de 3.3kohm com uma resistencia de 2.2ohm, mas como não encontramos tal para vender mudamos para um potenciometro  | R$ 6,61  |
 
 #### Link para o vídeo explicativo
 ... (em construção)
