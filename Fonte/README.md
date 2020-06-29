@@ -2,9 +2,9 @@
 Esse projeto consiste em uma fonte retificadora com uma tensão váriavel de 12V a 3V DC.
 
 ## Participantes
-* Lourenço de Salles Roselino - 11796805
-* Marco Antônio Ribeiro de Toledo - 11796419
-* Milena Corrêa da Silva - 11795401
+* **Lourenço de Salles Roselino - nº USP 11796805**
+* **Marco Antônio Ribeiro de Toledo - nº USP 11796419**
+* **Milena Corrêa da Silva - nº USP 11795401**
 
 ## Diagrama da Fonte (FALSTAD)
 ![falstad_print](https://i.imgur.com/WWNlFE1.gif)
