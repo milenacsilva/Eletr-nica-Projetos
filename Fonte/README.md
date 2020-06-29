@@ -11,7 +11,7 @@ Esse projeto consiste em uma fonte retificadora com uma tensão váriavel de 12V
 ![eagle_print](https://cdn.discordapp.com/attachments/705588546890891336/726614224461103214/unknown.png)
 ![eagle_print2](https://cdn.discordapp.com/attachments/705588546890891336/726614089727737896/unknown.png)
 
-#### [Link para o circuito no falstad](http://tinyurl.com/ybcu2mor)
+#### [Link para o circuito no falstad](http://tinyurl.com/y7bqgqjn)
 
 ### Componentes
 |Nome   |Quantidade  |Especificações   |Explicações   | Preço |
