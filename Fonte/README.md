@@ -7,7 +7,7 @@ Esse projeto consiste em uma fonte retificadora com uma tensão váriavel de 12V
 * Milena Corrêa da Silva - 11795401
 
 ## Diagrama da Fonte
-![falstad_print](https://imgur.com/WWNlFE1)
+![falstad_print](https://i.imgur.com/WWNlFE1.gif)
 ![eagle_print](https://cdn.discordapp.com/attachments/705588546890891336/726614224461103214/unknown.png)
 ![eagle_print2](https://cdn.discordapp.com/attachments/705588546890891336/726614089727737896/unknown.png)
 
