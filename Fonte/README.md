@@ -10,6 +10,8 @@ Milena Corrêa da Silva - **11795401**
 ## Diagrama da Fonte (FALSTAD)
 ![falstad_print](https://i.imgur.com/WWNlFE1.gif)
 ### [Link para o circuito](http://tinyurl.com/y7bqgqjn)
+### [Link para o vídeo explicativo](https://youtu.be/yuhNi4NMBbg)
+
 ## Projeto Esquemático e PCB (EAGLE)
 ![eagle_print](https://cdn.discordapp.com/attachments/705588546890891336/726614224461103214/unknown.png) 
 ![eagle_print2](https://cdn.discordapp.com/attachments/705588546890891336/726614089727737896/unknown.png)
@@ -29,4 +31,3 @@ Milena Corrêa da Silva - **11795401**
 |**Resistência**|**1**| **2k2ohm** | Novamente, faz parte do controlador | [R$0,10](https://www.usinainfo.com.br/resistores/resistor-2k2-14w-kit-com-10-unidades-3772.html) |
 |**Resistência**|**1**| **27ohm** | Representa o load | [R$0,05](https://produto.mercadolivre.com.br/MLB-1559727072-resistor-27r-ou-27-ohms-cr25-14w-5-pacote-c-1000-pecas-_JM?matt_tool=79246729&matt_word&gclid=CjwKCAjw_-D3BRBIEiwAjVMy7GPkKLxWNdczv_iB6-YxnClYdcXWfBU5fFMdJMur2VC7c6ZDHZ9zEBoCkBgQAvD_BwE&quantity=1) |
 
-### [Link para o vídeo explicativo](https://youtu.be/yuhNi4NMBbg)
