@@ -2,6 +2,7 @@
 Esse projeto consiste em uma fonte retificadora com uma tensão váriavel de 12V a 3V DC.
 
 ## Participantes
+<a href="https://github.com/milenacsilva"><img src="https://avatars.githubusercontent.com/u/892048?v=3" title="ngryman" width="80" height="80"></a>
 Lourenço de Salles Roselino - **11796805**\
 Marco Antônio Ribeiro de Toledo - **11796419**\
 Milena Corrêa da Silva - **11795401**
@@ -28,5 +29,4 @@ Milena Corrêa da Silva - **11795401**
 |**Resistência**|**1**| **2k2ohm** | Novamente, faz parte do controlador | [R$0,10](https://www.usinainfo.com.br/resistores/resistor-2k2-14w-kit-com-10-unidades-3772.html) |
 |**Resistência**|**1**| **27ohm** | Representa o load | [R$0,05](https://produto.mercadolivre.com.br/MLB-1559727072-resistor-27r-ou-27-ohms-cr25-14w-5-pacote-c-1000-pecas-_JM?matt_tool=79246729&matt_word&gclid=CjwKCAjw_-D3BRBIEiwAjVMy7GPkKLxWNdczv_iB6-YxnClYdcXWfBU5fFMdJMur2VC7c6ZDHZ9zEBoCkBgQAvD_BwE&quantity=1) |
 
-#### Link para o vídeo explicativo
-... (em construção)
+### [Link para o vídeo explicativo](https://youtu.be/yuhNi4NMBbg)
