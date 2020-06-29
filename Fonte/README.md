@@ -6,10 +6,10 @@ Esse projeto consiste em uma fonte retificadora com uma tensão váriavel de 12V
 * Marco Antônio Ribeiro de Toledo - 11796419
 * Milena Corrêa da Silva - 11795401
 
-## Diagrama da fonte no faulstad
+## Diagrama da Fonte (FALSTAD)
 ![falstad_print](https://i.imgur.com/WWNlFE1.gif)
-#### [Link para o circuito](http://tinyurl.com/y7bqgqjn)
-## Projeto Esquemático e PCB no EAGLE
+### [Link para o circuito](http://tinyurl.com/y7bqgqjn)
+## Projeto Esquemático e PCB (EAGLE)
 ![eagle_print](https://cdn.discordapp.com/attachments/705588546890891336/726614224461103214/unknown.png) 
 ![eagle_print2](https://cdn.discordapp.com/attachments/705588546890891336/726614089727737896/unknown.png)
 
