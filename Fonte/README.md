@@ -12,7 +12,7 @@ Milena Corrêa da Silva - **11795401**
 
 ## Diagrama da Fonte (FALSTAD)
 ![falstad_print](https://i.imgur.com/WWNlFE1.gif)
-### [Link para o circuito](http://tinyurl.com/y7bqgqjn)
+### [Link para o circuito](http://tinyurl.com/ycd7924y)
 ### [Link para o vídeo explicativo](https://youtu.be/yuhNi4NMBbg)
 
 ## Projeto Esquemático e PCB (EAGLE)
