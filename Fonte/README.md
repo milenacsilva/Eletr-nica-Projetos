@@ -12,6 +12,7 @@ Milena Corrêa da Silva - **11795401**
 
 ## Diagrama da Fonte (FALSTAD)
 ![falstad_print](https://i.imgur.com/WWNlFE1.gif)
+Obs.: o novo circuito, que pode ser acessado pelo link, tem um diodo zener a mais no segundo capacitor para evitar o refluxo
 ### [Link para o circuito](http://tinyurl.com/ycd7924y)
 ### [Link para o vídeo explicativo](https://youtu.be/yuhNi4NMBbg)
 
